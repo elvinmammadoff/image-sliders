@@ -35,7 +35,7 @@
 
                   <ul class="meta">
                       <li><strong>Author:</strong> <a href="https://themeforest.net/user/alissio" target="_blank">Alissio</a></li>
-                      <li><strong>Live Preview:</strong> <a href="https://sensational-cupcake-075815.netlify.app/landing/">View Demo</a></li>
+                      <li><strong>Live Preview:</strong> <a href="https://peppy-fudge-cee13a.netlify.app/business-slider">View Demo</a></li>
                       <li><strong>Support:</strong> <a href="mailto:elvinmammadoff@gmail.com">Ask a Question</a></li>
                   </ul>
 
@@ -64,9 +64,9 @@
                             <li data-magellan-arrival="skeleton-details"><a href="#skeleton-details">Skeleton Details</a></li>
                           </ul>
                           <li data-magellan-arrival="stylesheet-files"><a href="#stylesheet-files">Stylesheet Files</a></li>
-                          <li data-magellan-arrival="javascript-files"><a href="#javascript-files">Javascript Files</a></li>
                           <li data-magellan-arrival="support-desk"><a href="#support-desk">Support Desk</a></li>
                           <li data-magellan-arrival="files-resources"><a href="#files-resources">Files & Resources</a></li>
+                          <li data-magellan-arrival="files-resources"><a href="#php-file">PHP Code Explanation</a></li>
                           <li data-magellan-arrival="files-resources"><a href="#updates">Regular Updates</a></li>
                       </ol>
 
@@ -152,39 +152,15 @@
   <code class="language-markup">
     css/
     |
-    |-- main.css
+    |-- style.css
   </code>
 </pre>
 
                           <br>
                           <p>
                            As it can be seen, the folder contains 1 <code>css</code> file.<br>
-                          <code>main.css</code> custom style file.<br>
+                          <code>style.css</code> custom style file.<br>
                           </p>
-                    </section>
-
-                    <section id="javascript-files" class="section" data-magellan-destination="javascript-files">
-
-                          <h1>4. Javascript Files</h1>
-
-                          <br>
-
-                          <p>All client-side related javascript files can be found in this folder path <code>assets/js</code></p>
-
-<pre data-language="Folder Map">
-  <code class="language-markup">
-    js/
-    |
-    |-- main.js
-  </code>
-</pre>
-
-                          <br>
-                          <p>
-                          In this folder there are 1 file. <br>
-                          <code>main.js</code> contains all the custom programmed javascript coded specifically for this product<br>
-                        </p>
-
                     </section>
 
                     <section id="support-desk" class="section" data-magellan-destination="support-desk">
@@ -265,6 +241,16 @@
                                 </ul>
                             </li>
                           </ul>
+
+                    </section>
+
+                    <section id="php-file" class="section" data-magellan-destination="php-file">
+
+                        <h1>7. PHP Code Explanation</h1>
+
+                        <br>
+
+                        <p><code>index.php</code> file for deploy and init on docker container, netlify or heroku<p>
 
                     </section>
 

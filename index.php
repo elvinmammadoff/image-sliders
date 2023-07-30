@@ -11,5 +11,6 @@
 </head>
 <body>
 <a href="/business-slider">Business Hero Slider</a>
+<a href="/product-slider">Product Hero Slider</a>
 </body>
 </html>
