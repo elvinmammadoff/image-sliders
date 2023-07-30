@@ -1,0 +1,65 @@
+/* GENERAL
+-------------------------------------------------- */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 0;
+}
+a {
+    text-decoration: none;
+}
+
+/* CUSTOMIZE THE HEADER
+-------------------------------------------------- */
+header {
+    background-color: #222;
+    padding: 1rem 0;
+}
+.logo {
+    font-size: 26px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
+footer {
+    background-color: #222;
+    padding: 1rem 0;
+    font-size: 14px;
+}
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    column-gap: 1rem;
+    row-gap: 1rem;
+}
+
+/* CUSTOMIZE THE CONTENT
+-------------------------------------------------- */
+.content {
+    min-height: calc(100vh - 124px);
+}
+.subject {
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+}
+.text {
+    padding: 1rem 0;
+    max-width: 65%;
+    margin: 0 auto;
+}
+.item {
+    display: block;
+    overflow: hidden;
+    border-radius: .375rem;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+.item-name {
+    padding: 1rem;
+    color: #222;
+}
