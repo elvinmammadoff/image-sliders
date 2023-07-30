@@ -58,6 +58,10 @@ footer {
     overflow: hidden;
     border-radius: .375rem;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    transition: box-shadow .3s ease-in-out;
+}
+.item:hover {
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
 }
 .item-name {
     padding: 1rem;
