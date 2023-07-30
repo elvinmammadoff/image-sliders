@@ -1,0 +1,194 @@
+/* GENERAL
+-------------------------------------------------- */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 700;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+    height: 100vh;
+}
+/* Carousel control position */
+.carousel-control-next,
+.carousel-control-prev {
+    top: auto;
+    bottom: 2rem;
+    width: auto;
+    border: 1px solid #000;
+    border-radius: 50%;
+    padding: .5rem;
+    transition: all .3s ease-in-out;
+    opacity: 1;
+}
+.carousel-control-next:hover,
+.carousel-control-prev:hover {
+    background-color: #000;
+}
+.carousel-control-prev {
+    left: auto;
+    right: 5.5rem;
+}
+.carousel-control-next {
+    right: 2rem;
+}
+.carousel-control-prev .carousel-control-prev-icon,
+.carousel-control-next .carousel-control-next-icon {
+    filter: brightness(0) grayscale(1);
+    transition: filter .3s ease-in-out;
+}
+.carousel-control-prev:hover .carousel-control-prev-icon,
+.carousel-control-next:hover .carousel-control-next-icon {
+    filter: brightness(1) grayscale(0);
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+    padding: 0;
+    bottom: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    z-index: 10;
+}
+/* Declare heights because of positioning of img element */
+.carousel-inner,
+.carousel-item {
+    height: 100%;
+}
+/* Carousel custom class */
+.carousel-caption > .row {
+    width: 100%;
+}
+.carousel-media {
+    position: relative;
+    width: max-content;
+    margin: 0 auto;
+}
+.carousel-box-rounded {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 320px;
+    width: 230px;
+    border-radius: 45%;
+    overflow: hidden;
+    z-index: -1;
+}
+.carousel-img {
+    height: 450px;
+}
+.carousel-bg-img {
+    height: 130%;
+    width: 130%;
+    min-width: 130%;
+    object-fit: cover;
+    transform: translate(-18%, -15%);
+    opacity: 1;
+    scale: 1;
+    transition: all .5s ease-in-out, opacity .8s ease-in-out;
+}
+.carousel-item-start .carousel-img,
+.carousel-item-prev .carousel-img {
+    transform: scale(1.4);
+    transition: transform .8s ease-in-out, opacity .8s ease-in-out;
+    opacity: 0;
+}
+.carousel-item-next .carousel-img,
+.carousel-item-end .carousel-img {
+    transform: scale(1);
+    opacity: 1;
+    transition: transform .4s ease-in-out, opacity .8s ease-in-out;
+}
+.carousel-item-start .carousel-bg-img,
+.carousel-item-prev .carousel-bg-img {
+    scale: .8;
+    transition: all .5s ease-in-out, opacity .8s ease-in-out;
+    opacity: 0;
+}
+.carousel-item-next .carousel-bg-img,
+.carousel-item-end .carousel-bg-img {
+    scale: 1;
+    opacity: 1;
+    transition: all .5s ease-in-out, opacity .8s ease-in-out;
+}
+.carousel-label {
+    display: block;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+.carousel-title {
+    font-size: 5rem;
+}
+.carousel-price {
+    display: block;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Nanum Myeongjo', serif;
+}
+.carousel-item-next .carousel-label,
+.carousel-item-prev .carousel-label,
+.carousel-item-next .carousel-desc-ttl,
+.carousel-item-prev .carousel-desc-ttl {
+    transform: translateY(15px);
+    opacity: 0;
+    transition: transform .4s ease-in-out, opacity .4s ease-in-out;
+}
+.carousel-item-next .carousel-title,
+.carousel-item-prev .carousel-title,
+.carousel-item-next .carousel-desc-txt,
+.carousel-item-prev .carousel-desc-txt {
+    transform: translateY(25px);
+    opacity: 0;
+    transition: transform .6s ease-in-out, opacity .6s ease-in-out;
+}
+.carousel-item-next .carousel-price,
+.carousel-item-prev .carousel-price {
+    transform: translateY(40px);
+    opacity: 0;
+    transition: transform .8s ease-in-out, opacity .8s ease-in-out;
+}
+.carousel-label,
+.carousel-title,
+.carousel-price {
+    transform: translateY(0);
+    opacity: 1;
+    transition: transform .4s ease-in-out, opacity .1s ease-in-out;
+}
+.carousel-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    color: #000;
+}
+.carousel-desc-ttl {
+    font-weight: 800;
+    font-size: 2rem;
+    line-height: 2.25rem;
+    margin-bottom: .625rem;
+}
+.carousel-desc-txt {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+}
+.carousel-desc-ttl,
+.carousel-desc-txt {
+    transform: translateY(0);
+    opacity: 1;
+    transition: transform .4s ease-in-out, opacity .2s ease-in-out;
+}
