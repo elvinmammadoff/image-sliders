@@ -29,7 +29,7 @@
                 </a>
             </div>
             <div class="col-4">
-                <a href="/business-slider" class="item">
+                <a href="/product-slider" class="item">
                     <img src="src/assets/img/product-slider.png" alt="" class="w-100">
                     <p class="item-name text-center">Product Hero Slider</p>
                 </a>
