@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df9c1dd2-309b-4093-9f90-2363bdae7b51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/business-slider/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/assets/img/airport.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/assets/img/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/assets/img/tour-guide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/css/foundation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/css/normalize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/css/prism.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/img/hero-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/js/prism.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/js/vendor/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/documentation/js/vendor/jquery-1.11.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/business-slider/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-slider/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/business-slider/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/assets/img/amazonia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/assets/img/arizona.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/assets/img/cocktail-g83610a776_640.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/assets/img/cocktail-ga87628438_640.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/assets/img/cocktail-gcd442ca80_640.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/assets/img/savanna.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/css/foundation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/css/normalize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/css/prism.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/img/hero-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/js/prism.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/js/vendor/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/documentation/js/vendor/jquery-1.11.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-slider/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-slider/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/product-slider/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TWH90J68dDArv4NMN60OO5Fgwt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9c1dd2-309b-4093-9f90-2363bdae7b51" name="Default Changelist" comment="" />
+      <created>1691151761573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691151761573</updated>
+      <workItem from="1691151762756" duration="1725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

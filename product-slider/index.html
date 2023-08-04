@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Product Hero Slider</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="src/assets/css/style.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&family=Nanum+Myeongjo:wght@400;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -30,9 +30,9 @@
                         </div>
                         <div class="col-7">
                             <div class="carousel-media">
-                                <img src="assets/img/cocktail-ga87628438_640.png" alt="" class="carousel-img">
+                                <img src="src/assets/img/cocktail-ga87628438_640.png" alt="" class="carousel-img">
                                 <div class="carousel-box-rounded">
-                                    <img src="assets/img/amazonia.jpg" alt="" class="carousel-bg-img">
+                                    <img src="src/assets/img/amazonia.jpg" alt="" class="carousel-bg-img">
                                 </div>
                             </div>
                         </div>
@@ -59,9 +59,9 @@
                         </div>
                         <div class="col-7">
                             <div class="carousel-media">
-                                <img src="assets/img/cocktail-gcd442ca80_640.png" alt="" class="carousel-img">
+                                <img src="src/assets/img/cocktail-gcd442ca80_640.png" alt="" class="carousel-img">
                                 <div class="carousel-box-rounded">
-                                    <img src="assets/img/savanna.jpg" alt="" class="carousel-bg-img">
+                                    <img src="src/assets/img/savanna.jpg" alt="" class="carousel-bg-img">
                                 </div>
                             </div>
                         </div>
@@ -88,9 +88,9 @@
                         </div>
                         <div class="col-7">
                             <div class="carousel-media">
-                                <img src="assets/img/cocktail-g83610a776_640.png" alt="" class="carousel-img">
+                                <img src="src/assets/img/cocktail-g83610a776_640.png" alt="" class="carousel-img">
                                 <div class="carousel-box-rounded">
-                                    <img src="assets/img/arizona.jpg" alt="" class="carousel-bg-img">
+                                    <img src="src/assets/img/arizona.jpg" alt="" class="carousel-bg-img">
                                 </div>
                             </div>
                         </div>

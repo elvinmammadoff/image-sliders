@@ -17,7 +17,7 @@
 <div class="content">
     <div class="container">
         <div class="subject text-center">
-            <h1 class="title">Bootstrap Hero Sliders</h1><p class="text">If you are using Bootstrap in your projects then this product will help you to complete your projects easily and increase the speed of the website or app.</p>
+            <h1 class="title">Bootstrap Image Sliders</h1><p class="text">If you are using Bootstrap in your projects then this product will help you to complete your projects easily and increase the speed of the website or app.</p>
         </div>
     </div>
     <div class="container">
@@ -40,7 +40,7 @@
 <footer>
     <div class="container">
         <div class="footer-content">
-            <p class="copyright text-white">© 2023 BootSlider - Bootstrap Image Slider</p>
+            <p class="copyright text-white">© 2023 BootSlider - Bootstrap Image Sliders</p>
             <p class="company text-white">Built by <a href="https://themeforest.net/user/alissio" target="_blank">alissio</a> using Bootstrap.</p>
         </div>
     </div>
