@@ -22,13 +22,13 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-4">
+            <div class="col-xs-12 col-sm-6 col-lg-4">
                 <a href="/business-slider" class="item">
                     <img src="src/assets/img/business-slider.png" alt="" class="w-100">
                     <p class="item-name text-center">Business Hero Slider</p>
                 </a>
             </div>
-            <div class="col-4">
+            <div class="col-xs-12 col-sm-6 col-lg-4">
                 <a href="/product-slider" class="item">
                     <img src="src/assets/img/product-slider.png" alt="" class="w-100">
                     <p class="item-name text-center">Product Hero Slider</p>
