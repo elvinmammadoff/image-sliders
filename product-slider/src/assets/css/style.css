@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
     z-index: -1;
 }
 .carousel-img {
-    height: 450px;
+    max-height: 450px;
 }
 .carousel-bg-img {
     height: 130%;
