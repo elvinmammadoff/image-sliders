@@ -60,6 +60,7 @@ footer {
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
     transition: box-shadow .3s ease-in-out;
     border: 1px solid rgba(0,0,0,.2);
+    margin-bottom: 30px;
 }
 .item:hover {
     box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
