@@ -23,7 +23,7 @@
                                     <a href="" class="carousel-button"><button type="button" class="btn btn-primary">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button></a>
                                 </div>
                                 <div class="carousel-desc">
-                                    <p class="carousel-desc-txt">Every Wednesday receive a free Amazonia Cocktail with nay main meal ordered.</p>
+                                    <p class="carousel-desc-txt">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                     <a href="" class="carousel-button"><button type="button" class="btn btn-primary">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button></a>
                                 </div>
                                 <div class="carousel-desc">
-                                    <p class="carousel-desc-txt">Every Wednesday receive a free Amazonia Cocktail with nay main meal ordered.</p>
+                                    <p class="carousel-desc-txt">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
                                 </div>
                             </div>
                         </div>
@@ -71,7 +71,7 @@
                                     <a href="" class="carousel-button"><button type="button" class="btn btn-primary">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button></a>
                                 </div>
                                 <div class="carousel-desc">
-                                    <p class="carousel-desc-txt">Every Wednesday receive a free Amazonia Cocktail with nay main meal ordered.</p>
+                                    <p class="carousel-desc-txt">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
                                 </div>
                             </div>
                         </div>
