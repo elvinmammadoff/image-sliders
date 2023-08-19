@@ -24,6 +24,13 @@ header {
     color: #fff;
     text-decoration: none;
     font-weight: 600;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    width: fit-content;
+}
+.logo img {
+    height: 38px;
 }
 footer {
     background-color: #222;
