@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="carousel-caption text-start">
                     <div class="row">
-                        <div class="col-5">
+                        <div class="col-xs-12 col-md-5">
                             <div class="carousel-content">
                                 <div class="carousel-details">
                                     <span class="carousel-label">Cocktail Drink</span>
@@ -28,7 +28,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-7">
+                        <div class="col-xs-12 col-md-7">
                             <div class="carousel-media">
                                 <img src="src/assets/img/cocktail-ga87628438_640.png" alt="" class="carousel-img">
                                 <div class="carousel-box-rounded">
@@ -44,7 +44,7 @@
             <div class="container">
                 <div class="carousel-caption text-start">
                     <div class="row">
-                        <div class="col-5">
+                        <div class="col-xs-12 col-md-5">
                             <div class="carousel-content">
                                 <div class="carousel-details">
                                     <span class="carousel-label">Cocktail Drink</span>
@@ -57,7 +57,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-7">
+                        <div class="col-xs-12 col-md-7">
                             <div class="carousel-media">
                                 <img src="src/assets/img/cocktail-gcd442ca80_640.png" alt="" class="carousel-img">
                                 <div class="carousel-box-rounded">
@@ -73,7 +73,7 @@
             <div class="container">
                 <div class="carousel-caption text-start">
                     <div class="row">
-                        <div class="col-5">
+                        <div class="col-xs-12 col-md-5">
                             <div class="carousel-content">
                                 <div class="carousel-details">
                                     <span class="carousel-label">Cocktail Drink</span>
@@ -86,7 +86,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-7">
+                        <div class="col-xs-12 col-md-7">
                             <div class="carousel-media">
                                 <img src="src/assets/img/cocktail-g83610a776_640.png" alt="" class="carousel-img">
                                 <div class="carousel-box-rounded">

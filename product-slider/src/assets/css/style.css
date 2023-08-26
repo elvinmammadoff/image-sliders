@@ -1,4 +1,18 @@
-/* GENERAL
+/*-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. - GENERAL
+
+    2. - CUSTOMIZE THE CAROUSEL
+
+    3. - RESPONSIVE
+
+-----------------------------------------------------------------------------------*/
+
+
+/* 1. - GENERAL
 -------------------------------------------------- */
 body {
     font-family: 'Montserrat', sans-serif;
@@ -8,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
-/* CUSTOMIZE THE CAROUSEL
+/* 2. - CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
 /* Carousel base class */
@@ -191,4 +205,83 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateY(0);
     opacity: 1;
     transition: transform .4s ease-in-out, opacity .2s ease-in-out;
+}
+
+
+/* 3. - RESPONSIVE
+-------------------------------------------------- */
+
+@media only screen and (max-width: 1160px) {
+    .carousel-caption {
+        left: 10%;
+        right: 10%;
+    }
+    .carousel-title {
+        font-size: 4rem;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .carousel-title {
+        font-size: 3.6rem;
+    }
+    .carousel-price,
+    .carousel-desc-ttl {
+        font-size: 1.7rem;
+    }
+    .carousel-label,
+    .carousel-desc {
+        font-size: 13px;
+    }
+    .carousel-indicators {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .carousel-caption {
+        left: 0;
+        right: 0;
+    }
+    .carousel-caption > .row {
+        flex-direction: column-reverse;
+    }
+    .carousel-content {
+        padding: 1rem 10%;
+        max-width: 90%;
+    }
+    .carousel-img {
+        max-height: 340px;
+    }
+    .carousel-box-rounded {
+        height: 250px;
+        width: 190px;
+    }
+    .carousel-media {
+        margin: 3rem auto 0;
+    }
+    .carousel-label,
+    .carousel-desc {
+        font-size: 12px;
+        padding-right: 50px;
+    }
+    .carousel-title {
+        font-size: 3rem;
+    }
+    .carousel-price,
+    .carousel-desc-ttl {
+        font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .carousel-content {
+        max-width: 100%;
+    }
+    .carousel-control-next,
+    .carousel-control-prev {
+        bottom: auto;
+        top: 2rem;
+    }
 }

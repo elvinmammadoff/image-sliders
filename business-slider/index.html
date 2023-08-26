@@ -16,7 +16,7 @@
             <div class="container">
                 <div class="carousel-caption text-start">
                     <div class="row">
-                        <div class="col-6">
+                        <div class="col-xs-12 col-md-6">
                             <div class="carousel-content">
                                 <div class="carousel-details">
                                     <h1 class="carousel-title">We offer,<br/>You choose,<br/>We guide.</h1>
@@ -27,7 +27,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6">
+                        <div class="col-xs-12 col-md-6">
                             <div class="carousel-media">
                                 <img src="src/assets/img/airport.jpg" alt="" class="carousel-img">
                             </div>
@@ -40,7 +40,7 @@
             <div class="container">
                 <div class="carousel-caption text-start">
                     <div class="row">
-                        <div class="col-6">
+                        <div class="col-xs-12 col-md-6">
                             <div class="carousel-content">
                                 <div class="carousel-details">
                                     <h1 class="carousel-title">We offer,<br/>You choose,<br/>We guide.</h1>
@@ -51,7 +51,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6">
+                        <div class="col-xs-12 col-md-6">
                             <div class="carousel-media">
                                 <img src="src/assets/img/map.jpg" alt="" class="carousel-img">
                             </div>
@@ -64,7 +64,7 @@
             <div class="container">
                 <div class="carousel-caption text-start">
                     <div class="row">
-                        <div class="col-6">
+                        <div class="col-xs-12 col-md-6">
                             <div class="carousel-content">
                                 <div class="carousel-details">
                                     <h1 class="carousel-title">We offer,<br/>You choose,<br/>We guide.</h1>
@@ -75,7 +75,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6">
+                        <div class="col-xs-12 col-md-6">
                             <div class="carousel-media">
                                 <img src="src/assets/img/tour-guide.jpg" alt="" class="carousel-img">
                             </div>

@@ -1,4 +1,18 @@
-/* GENERAL
+/*-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. - GENERAL
+
+    2. - CUSTOMIZE THE CAROUSEL
+
+    3. - RESPONSIVE
+
+-----------------------------------------------------------------------------------*/
+
+
+/* 1. - GENERAL
 -------------------------------------------------- */
 body {
     font-family: 'Poppins', sans-serif;
@@ -7,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
-/* CUSTOMIZE THE CAROUSEL
+/* 2. - CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
 /* Carousel base class */
@@ -90,7 +104,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* Carousel custom class */
 .carousel-caption > .row {
+    position: relative;
     width: 100%;
+    height: 100%;
+}
+.carousel-caption > .row > div {
     height: 100%;
 }
 .carousel-media {
@@ -191,6 +209,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 100%;
     color: #000;
     padding: 8rem 0;
+    row-gap: 3rem;
 }
 .carousel-desc-txt {
     font-size: 14px;
@@ -202,4 +221,82 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateY(0);
     opacity: 1;
     transition: transform .4s ease-in-out, opacity .2s ease-in-out;
+}
+
+
+/* 3. - RESPONSIVE
+-------------------------------------------------- */
+
+
+@media only screen and (max-width: 1160px) {
+    .carousel-indicators {
+        width: 28%;
+    }
+    .carousel-title {
+        font-size: 2.6rem;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .carousel-button .btn {
+        padding: 0.75rem 1rem;
+    }
+    .carousel-title {
+        font-size: 2.3rem;
+    }
+    .carousel-caption {
+        left: 10%;
+        right: 10%;
+    }
+    .carousel-indicators {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .carousel-caption {
+        left: 0;
+        right: 0;
+    }
+    .carousel-caption > .row > div:first-child {
+        position: absolute;
+        z-index: 1;
+    }
+    .carousel-caption:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        background-color: rgba(0,0,0, .6);
+    }
+    .carousel-title,
+    .carousel-desc-txt {
+        color: #fff;
+    }
+    .carousel-content {
+        padding: 8rem 10%;
+    }
+    .carousel-indicators {
+        width: 36%;
+    }
+    .carousel-indicators [data-bs-target] {
+        color: #fff;
+        border-color: #fff;
+    }
+}
+
+@media only screen and (max-width: 625px){
+    .carousel-indicators {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 480px){
+    .carousel-indicators {
+        width: 80%;
+    }
 }
