@@ -269,7 +269,7 @@
 
 <pre>
 
-  V. 1.0.0 – 06.08.2023
+  V. 1.0.0 – 27.08.2023
   - Initial release
 </pre>
                     </section>
