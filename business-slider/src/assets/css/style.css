@@ -287,6 +287,11 @@ h1, h2, h3, h4, h5, h6 {
         color: #fff;
         border-color: #fff;
     }
+    .carousel-button:hover .btn {
+        border-color: transparent;
+        background-color: #fff;
+        color: #000;
+    }
 }
 
 @media only screen and (max-width: 625px){
