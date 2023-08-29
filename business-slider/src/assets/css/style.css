@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
 .carousel-button {
     display: inline-block;
 }
-.carousel-button .btn {
+.carousel-button.btn {
     border-radius: 0;
     border-color: transparent;
     background-color: #000;
@@ -145,10 +145,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
     margin-top: 1rem;
 }
-.carousel-button .btn i {
+.carousel-button.btn i {
     margin-left: .5rem;
 }
-.carousel-button:hover .btn {
+.carousel-button.btn:hover {
     border-color: #000;
     background-color: transparent;
     color: #000;
@@ -238,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media only screen and (max-width: 992px) {
-    .carousel-button .btn {
+    .carousel-button.btn {
         padding: 0.75rem 1rem;
     }
     .carousel-title {
@@ -287,7 +287,7 @@ h1, h2, h3, h4, h5, h6 {
         color: #fff;
         border-color: #fff;
     }
-    .carousel-button:hover .btn {
+    .carousel-button.btn:hover {
         border-color: transparent;
         background-color: #fff;
         color: #000;
