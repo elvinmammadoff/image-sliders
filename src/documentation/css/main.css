@@ -52,7 +52,7 @@ pre {
     border: 1px solid #cc0;
 }
 pre.css {
-    /*background-image: url(../../_img/pre_bg.png);*/
+    background-image: url('../img/pre_bg.png');
     line-height: 19px;
 }
 pre code {

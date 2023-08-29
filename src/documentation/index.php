@@ -165,7 +165,57 @@
                             <li><strong>style.css</strong> — custom style file.</li>
 
                         </ul>
-                              All styling related files of this product can be found in this folder path <code>assets/css</code></p>
+
+                        <p>The second file contains all of the specific stylings for the page. The file is separated into sections using:</p>
+
+<pre data-language="Folder Map" class="css">
+/*-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. - GENERAL
+
+    2. - CUSTOMIZE THE CAROUSEL
+
+    3. - RESPONSIVE
+
+-----------------------------------------------------------------------------------*/
+
+/* 1. - GENERAL
+-------------------------------------------------- */
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Nanum Myeongjo', serif;
+        font-weight: 700;
+    }
+
+/* 2. - CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+    /* Carousel base class */
+    .carousel {
+        height: 100vh;
+    }
+
+
+/* 3. - RESPONSIVE
+-------------------------------------------------- */
+
+    @media only screen and (max-width: 1160px) {
+        .carousel-caption {
+            left: 10%;
+            right: 10%;
+        }
+        .carousel-title {
+            font-size: 4rem;
+        }
+    }
+</pre><br>
+
+                              <p>All styling related files of this product can be found in this folder path <code>assets/css</code></p>
 
 <pre data-language="Folder Map">
   <code class="language-markup">
@@ -295,7 +345,7 @@
 
                           <p>We’re always improving our skills and knowledge so we’re making changes regularly. From bug fixes to new awesome features, updates generally come at least twice a month.<p>
 
-<pre>
+<pre class="css">
 
   V. 1.0.0 – 27.08.2023
   - Initial release
