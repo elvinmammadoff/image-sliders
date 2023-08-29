@@ -49,6 +49,11 @@ li {
 }
 pre {
     white-space: pre-wrap;
+    border: 1px solid #cc0;
+}
+pre.css {
+    /*background-image: url(../../_img/pre_bg.png);*/
+    line-height: 19px;
 }
 pre code {
     background: transparent;

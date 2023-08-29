@@ -36,10 +36,10 @@
                   <ul class="meta">
                       <li><strong>Author:</strong> <a href="https://themeforest.net/user/alissio" target="_blank">Alissio</a></li>
                       <li><strong>Live Preview:</strong> <a href="https://peppy-fudge-cee13a.netlify.app/">View Demo</a></li>
-                      <li><strong>Support:</strong> <a href="mailto:elvinmammadoff@gmail.com">Ask a Question</a></li>
+                      <li><strong>Support:</strong> <span style="font-weight: 300;">alissioteam@gmail.com</span></li>
                   </ul>
 
-                  <p>Thank you for purchasing my product. <br> If you have any questions that are beyond the scope of this help file, <br> please feel free to email <a href="mailto:designer.rafiq@gmail.com">here</a><br> Thanks so much!</p>
+                  <p>Thank you for purchasing my product. <br> If you have any questions that are beyond the scope of this help file, <br> please feel free to email via my user page contact form here.<br> Thanks so much!</p>
 
               </div>
 
@@ -63,7 +63,8 @@
                           <ul>
                             <li data-magellan-arrival="skeleton-details"><a href="#skeleton-details">Skeleton Details</a></li>
                           </ul>
-                          <li data-magellan-arrival="stylesheet-files"><a href="#stylesheet-files">Stylesheet Files</a></li>
+                          <li data-magellan-arrival="css-files"><a href="#css-files">CSS Files</a></li>
+                          <li data-magellan-arrival="javascript-files"><a href="#javascript-files">Javascript Files</a></li>
                           <li data-magellan-arrival="support-desk"><a href="#support-desk">Support Desk</a></li>
                           <li data-magellan-arrival="files-resources"><a href="#files-resources">Files & Resources</a></li>
                           <li data-magellan-arrival="files-resources"><a href="#php-file">PHP Code Explanation</a></li>
@@ -114,7 +115,7 @@
 
                       <br>
 
-                      <p>This product is a responsive image slider which built with Bootstrap 5.3.1 fraemwork and you can customize it very easily. All of the information within the main
+                      <p>This product is a responsive image slider which built with Bootstrap 5.1.3 Framework and you can customize it very easily. All of the information within the main
                         content area is nested within a header, footer and div with an class of "content". Here is the general
                         structure. Note that for brevity, I am not including content that isn’t relevant to the
                         technique.</p>
@@ -123,15 +124,15 @@
   <code class="language-markup">
 
     <!-- BEGIN  Header -->
-      <header></header>
+      <header>...</header>
     <!-- END footer -->
 
       <!-- BEGIN  Content -->
-      <div class="content"></div>
+      <div class="content">...</div>
       <!-- END Content -->
 
       <!-- BEGIN  Footer -->
-      <footer></footer>
+      <footer>...</footer>
       <!-- END Footer -->
 
   </code>
@@ -150,13 +151,21 @@
                           <p><code>footer</code> contains the code for footer details</p>
 
                     </section>
-                    <section id="stylesheet-files" class="section" data-magellan-destination="stylesheet-files">
+                    <section id="css-files" class="section" data-magellan-destination="css-files">
 
-                          <h1>3. Stylesheet Files</h1>
+                          <h1>3. CSS Files</h1>
 
                           <br>
 
-                          <p>All styling related files of this product can be found in this folder path <code>assets/css</code></p>
+                          <p>We're using two CSS files in this product.
+
+                        <ul>
+                            <li><strong>https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css</strong> — Bootstrap Framework 5.1.3. This outsourcing CSS design file is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system.</li>
+
+                            <li><strong>style.css</strong> — custom style file.</li>
+
+                        </ul>
+                              All styling related files of this product can be found in this folder path <code>assets/css</code></p>
 
 <pre data-language="Folder Map">
   <code class="language-markup">
@@ -168,9 +177,24 @@
 
                           <br>
                           <p>
-                           As it can be seen, the folder contains 1 <code>css</code> file.<br>
+                           As it can be seen, the folder contains one <code>css</code> file.<br>
                           <code>style.css</code> custom style file.<br>
                           </p>
+                    </section>
+
+                    <section id="javascript-files" class="section" data-magellan-destination="javascript-files">
+
+                        <h1>4. Javascript Files</h1>
+
+                        <br>
+
+                        <p>This product imports one Javascript file.</p>
+
+                        <ul>
+                            <li><strong>https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js</strong> — Bootstrap Framework 5.1.3. This outsourcing file is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system.</li>
+
+                        </ul>
+
                     </section>
 
                     <section id="support-desk" class="section" data-magellan-destination="support-desk">
@@ -226,6 +250,10 @@
 
                           </section>
 
+                        <p><a href="https://hasthemes.com/contact-us/" rel="nofollow"><strong>Create A Ticket here if you need any support for the item purchased.</strong></a></p>
+                        <p><a href="https://hasthemes.com/contact-us/" rel="nofollow"><strong>Have a question? Need clarification? Feel free to Contact Us if you have a pre-sale question</strong></a></p>
+                        <p><a href="https://hasthemes.com/contact-us/" rel="nofollow"><strong>Send a custom job proposal</strong></a></p>
+
 
                     </section>
 
@@ -239,7 +267,7 @@
 
 
                           <ul>
-                            <li><a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/" target="_blank">Bootstrap 5.3.1</a></li>
+                            <li><a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank">Bootstrap 5.1.3</a></li>
                             <li> <strong>Font used</strong>
                               <ul>
                                 <li><a href="https://fonts.google.com/specimen/Poppins" target="_blank">Poppins</a></li>
