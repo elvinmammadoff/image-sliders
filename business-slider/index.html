@@ -19,8 +19,8 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="carousel-content">
                                 <div class="carousel-details">
-                                    <h1 class="carousel-title">We offer,<br/>You choose,<br/>We guide.</h1>
-                                    <a href="" class="carousel-button"><button type="button" class="btn btn-primary">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button></a>
+                                    <h1 class="carousel-title">We offer,<br>You choose,<br>We guide.</h1>
+                                    <button type="button" class="btn btn-primary"><a href="" class="carousel-button">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></button>
                                 </div>
                                 <div class="carousel-desc">
                                     <p class="carousel-desc-txt">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
@@ -43,8 +43,8 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="carousel-content">
                                 <div class="carousel-details">
-                                    <h1 class="carousel-title">We offer,<br/>You choose,<br/>We guide.</h1>
-                                    <a href="" class="carousel-button"><button type="button" class="btn btn-primary">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button></a>
+                                    <h1 class="carousel-title">We offer,<br/>You choose,<br>We guide.</h1>
+                                    <button type="button" class="btn btn-primary"><a href="" class="carousel-button">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></button>
                                 </div>
                                 <div class="carousel-desc">
                                     <p class="carousel-desc-txt">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
@@ -67,8 +67,8 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="carousel-content">
                                 <div class="carousel-details">
-                                    <h1 class="carousel-title">We offer,<br/>You choose,<br/>We guide.</h1>
-                                    <a href="" class="carousel-button"><button type="button" class="btn btn-primary">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button></a>
+                                    <h1 class="carousel-title">We offer,<br>You choose,<br>We guide.</h1>
+                                    <button type="button" class="btn btn-primary"><a href="" class="carousel-button">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></button>
                                 </div>
                                 <div class="carousel-desc">
                                     <p class="carousel-desc-txt">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
