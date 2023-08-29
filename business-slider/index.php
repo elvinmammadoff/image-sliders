@@ -43,7 +43,7 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="carousel-content">
                                 <div class="carousel-details">
-                                    <h1 class="carousel-title">We offer,<br/>You choose,<br>We guide.</h1>
+                                    <h1 class="carousel-title">We offer,<br>You choose,<br>We guide.</h1>
                                     <a href="" class="carousel-button btn btn-primary">Here's how it works <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                                 </div>
                                 <div class="carousel-desc">
